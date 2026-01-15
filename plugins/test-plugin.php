@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Test plugin
-Description: Plugin for testing GitHub deployments on WordPress.com 
+Plugin Name: Test Plugin
+Description: Plugin for testing GitHub deployments on WordPress.com - protected path test
 Version: 0.1.0
 Author: @gcsecsey
 Author URI: http://gcsecsey.dev
